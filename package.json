@@ -1,0 +1,25 @@
+{
+  "name": "javascript-30-starter",
+  "version": "1.0.0",
+  "scripts": {
+    "document": "node ./lib/document.js ../src ../DOCS.md",
+    "test": "node ./lib/test.js ../src"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackyourfuturebelgium/javascript-30-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hackyourfuturebelgium/javascript-30-starter/issues"
+  },
+  "homepage": "https://github.com/hackyourfuturebelgium/javascript-30-starter",
+  "devDependencies": {
+    "jsdoc-to-markdown": "^6.0.1",
+    "prettier": "^2.2.1",
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
