@@ -1,4 +1,4 @@
-12/1/2020, 5:06:38 PM
+12/1/2020, 4:16:21 PM
 
 helloWorldLogic reverses a string
   √ "toads" -> "sdaot"
@@ -9,8 +9,8 @@ helloWorldLogic reverses a string
         at file:// [ ... ] /src/logic/hello-world.spec.js:12:3
         at describe (file:// [ ... ] /lib/describe-it.js:66:9)
         at file:// [ ... ] /src/logic/hello-world.spec.js:8:1
-        at ModuleJob.run (internal/modules/esm/module_job.js:138:23)
-        at async Loader.import (internal/modules/esm/loader.js:178:24)
+        at ModuleJob.run (internal/modules/esm/module_job.js:146:23)
+        at async Loader.import (internal/modules/esm/loader.js:165:24)
         at async testFolder (file:// [ ... ] /lib/test.js:66:7)
         at async testFolder (file:// [ ... ] /lib/test.js:24:7)
 
