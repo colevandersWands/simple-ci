@@ -98,7 +98,7 @@ calls the helloWorldHandler when the hello-world-form is submitted
 
 ## helloWorldLogic ⇒ <code>string</code>
 
-reverses a string
+reverses a string!
 
 **Returns**: <code>string</code> - the string reversed
 
