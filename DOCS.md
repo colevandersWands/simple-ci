@@ -88,16 +88,7 @@ calls the helloWorldHandler when the hello-world-form is submitted
 
 ---
 
-## Logic
-
-functions are pure functions
-
-NEVER read from the DOM
-NEVER write to the DOM
-NEVER use events
-NEVER use prompt/alert/confirm
-NEVER use variables that are not parameters
-NEVER use variables that are not declared locally
+12/1/2020, 1:03:14 AM
 
 ---
 
