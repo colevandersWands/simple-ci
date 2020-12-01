@@ -10,6 +10,6 @@ describe('helloWorldLogic reverses a string', () => {
     expect(helloWorldLogic('toads')).to.equal('sdaot');
   });
   it('"sdaot" -> "toads"', () => {
-    expect(helloWorldLogic('sdaot')).to.equal('tods');
+    expect(helloWorldLogic('sdaot')).to.equal('toads');
   });
 });
